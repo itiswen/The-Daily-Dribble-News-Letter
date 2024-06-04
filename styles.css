@@ -1,0 +1,62 @@
+ body {
+    display: block;
+    text-align: center;
+    margin: auto;
+    border: 3px solid #121212;
+    font-weight: bolder;
+ }
+ 
+ h1 {
+    color: #121212;
+    font-weight: bolder;
+    margin: 50px;
+ }
+ 
+ .img {
+    width: 380px;
+    margin: 50px auto 20px auto;
+}
+ 
+.email {
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    width: 300px;
+    color: #121212;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-width: 3px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn {
+    font-weight: bold;
+    display: block;
+    width: 385px;
+    color: white;
+    background-color: #121212;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-width: 3px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.secondparagraph {
+    color: #121212;
+}
+
+p {
+    font-style: italic;
+}
+
+a {
+    color: #121212;
+}
